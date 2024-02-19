@@ -1,6 +1,6 @@
 CXX=g++
 
-EXEC=a.out
+EXEC=prop
 
 BUILDDIR=build
 
